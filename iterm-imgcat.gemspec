@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Hannah Carnes"]
   spec.email         = ["hecarnes@gmail.com"]
 
-  spec.summary       = %q{Coming soon.}
-  spec.description   = %q{Coming soon.}
+  spec.summary       = %q{Library that allows images to be displayed in iTerm2.}
+  spec.description   = %q{Library that allows images to be displayed in iTerm2.}
   spec.homepage      = "https://github.com/hcarnes/iterm-imgcat"
   spec.license       = "MIT"
 
